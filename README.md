@@ -1,4 +1,5 @@
 # JamesCarsen-math-formulas-and-proofs.github.io
+* It might take some time to load it. *
 ![IMG20211025212440](https://user-images.githubusercontent.com/70703379/138706150-7b05acd3-0e55-4e58-b7ec-cc8d26a9031d.jpg)
 ![IMG20211025212508](https://user-images.githubusercontent.com/70703379/138706175-522d5de9-02f7-4ea0-b1d7-940748b41511.jpg)
 ![IMG20211025212519](https://user-images.githubusercontent.com/70703379/138706189-2c6f1798-c8d4-49c6-93e8-ddf188ca9cad.jpg)
